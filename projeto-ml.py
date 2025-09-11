@@ -1,3 +1,5 @@
+#https://colab.research.google.com/drive/1Ksr7LepcNIs8HeX-Ma-euLHsilrEP-L_#scrollTo=PFTvOoL4irDb
+
 import pandas as pd
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
